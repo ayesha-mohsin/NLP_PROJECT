@@ -1,1 +1,1 @@
-Enhancing Accessibility to Scientific Knowledge through Speech-to-Text Summarization
+Streamlining Essay Analysis Using Natural Language Processing
